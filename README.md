@@ -1,7 +1,7 @@
 # A dockerized Haste Server
 
-execute `docker build -t haste-server .` to build the container
-execute `docker run haste-server` to run the haste-server (on 0.0.0.0:7777)
+* execute `docker build -t haste-server .` to build the container
+* execute `docker run haste-server` to run the haste-server (on 0.0.0.0:7777)
 
 # Haste
 
